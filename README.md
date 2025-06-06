@@ -21,6 +21,17 @@ O projeto é composto pelos seguintes arquivos:
 - 📋 **Exibir alunos**: Mostra todos os alunos cadastrados de forma formatada.
 - ❌ **Excluir aluno**: Remove um aluno da lista com base no nome (usando busca binária).
 
+---
+
+Ao executar o programa, você verá um menu interativo com as seguintes opções:
+
+📚 Sistema de Gerenciamento de Notas Escolares
+1. Adicionar alunos
+2. Buscar alunos
+3. Exibir todos os alunos
+4. Ordenar aluno
+5. Excluir aluno
+6. Sair
 
 ### 👨‍💻 Autor
 Davi Lima - @davilima11
