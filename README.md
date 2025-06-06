@@ -30,6 +30,13 @@ O projeto é composto pelos seguintes arquivos:
 4. Ordenar aluno
 5. Excluir aluno
 6. Sair
+
+## 📝 Conclusão
+
+Esse projeto foi bom pra mostrar como os algoritmos que a gente aprende na teoria realmente funcionam na prática. Foi bem divertido colocar tudo junto e ver o sistema rodando com um menu interativo, opções de busca e ordenação funcionando direitinho.
+
+Usei coisas como busca binária e merge sort , que deixaram o programa bem rápido, até mesmo com listas maiores. Além disso, conseguimos organizar o código de forma limpa, com funções separadas e fácil de entender.
+
 ---
 ### 👨‍💻 Autor
 Davi Lima - @davilima11
